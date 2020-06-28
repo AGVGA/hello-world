@@ -1,2 +1,6 @@
 # hello-world
-Just a repository.
+
+
+Hi Visitor!
+
+I am Aditya, a computer science student trying to get better at things.
